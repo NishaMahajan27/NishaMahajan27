@@ -13,6 +13,6 @@
 &nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-nishamahajan2704-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishamahajan2704@gmail.com)
 &nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Nisha%20Mahajan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishaMhjn)
+[![GitHub](https://img.shields.io/badge/GitHub-Nisha%20Mahajan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishaMahajan27)
 
 </div>
