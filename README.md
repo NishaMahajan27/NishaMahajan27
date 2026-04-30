@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisha%20Mahajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-mahajan-b01b56402/)
 &nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-nishamahajan2704-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishamahajan2704@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nishamahajan2704-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishaemahajan@gmail.com)
 &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Nisha%20Mahajan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishaMahajan27)
 
