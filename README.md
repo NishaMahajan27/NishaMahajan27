@@ -77,23 +77,11 @@ I enjoy designing automated workflows, improving deployment efficiency, and buil
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisha%20Mahajan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nisha-mahajan-b01b56402/)
-
- 
-
-[![Gmail](https://img.shields.io/badge/Gmail-nishamahajan2704-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nishaemahajan@gmail.com)
-
- 
-
-[![GitHub](https://img.shields.io/badge/GitHub-Nisha%20Mahajan-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NishaMahajan27)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=NishaMahajan27\&icon=0\&color=0)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/LINKEDIN-NISHA%20MAHAJAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GMAIL-NISHAMAHAJAN2704-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GITHUB-NISHA%20MAHAJAN-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
